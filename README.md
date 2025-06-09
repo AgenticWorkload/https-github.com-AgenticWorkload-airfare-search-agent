@@ -2,6 +2,7 @@
 Airfare Search Agent
 A React-based web application for searching and comparing flight prices across multiple airlines and routes.
 Project Structure
+
 airfare-search-agent/
 ├── README.md
 ├── package.json
@@ -17,6 +18,8 @@ airfare-search-agent/
 │   └── index.js
 └── docs/
     └── screenshots/
+
+
 Features
 
 Universal Route Search: Search flights between 25+ major airports
